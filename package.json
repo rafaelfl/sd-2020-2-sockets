@@ -1,0 +1,23 @@
+{
+  "name": "sd-2020-2-sockets",
+  "version": "1.0.0",
+  "description": "Implementação de um protocolo de rede com Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelfl/sd-2020-2-sockets.git"
+  },
+  "author": "Rafael Fernandes Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelfl/sd-2020-2-sockets/issues"
+  },
+  "homepage": "https://github.com/rafaelfl/sd-2020-2-sockets#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
